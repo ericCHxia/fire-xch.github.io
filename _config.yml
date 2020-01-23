@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: bbe1c48ca92cd96f65b6                          #生成的clientID
-  clientSecret: bf6369e90f54dd107dcee2f044ce51379c5697d8   #生成的clientSecret
+  clientID: a92efacd2b384815b98d                          #生成的clientID
+  clientSecret: 1064895d1063eb4799fc37fa9030e55e5a26b6dd   #生成的clientSecret
   repo: fire-xch.github.io    #仓库名称
   owner: fire-xch    #github用户名
   admin: fire-xch
